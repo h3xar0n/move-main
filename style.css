@@ -110,6 +110,16 @@ p {
 
 }
 
+/* Form */
+.form-control {
+  font-size: 18px;
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  border: 2px;
+  padding: 10px;
+  width: 300px;
+}
+
 /* Footer */
 .footer {
   background: url(https://s3.amazonaws.com/codecademy-content/projects/2/move/footer.jpg) no-repeat center center;
